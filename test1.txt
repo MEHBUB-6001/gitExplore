@@ -1,3 +1,6 @@
 I am on test file
 
 test function added
+
+
+added a code for logout
