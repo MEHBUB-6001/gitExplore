@@ -4,3 +4,4 @@ test function added
 
 
 added a code for logout
+master added
